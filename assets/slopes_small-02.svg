@@ -1,0 +1,50 @@
+            <?xml version="1.0" encoding="utf-8"?>
+            <svg id="Layer_1" data-name="Layer 1" viewBox="0 0 2000 500" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#231f20;}</style>
+                <linearGradient id="linear-gradient" x1="1000" y1="495.56" x2="1000" y2="-84.62" gradientTransform="matrix(1, 0, 0, -1, 0, 509.12)" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#fafdfe"/>
+                  <stop offset="0.64" stop-color="#fafdfe"/>
+                  <stop offset="0.7" stop-color="#fafdfe" stop-opacity="0.99"/>
+                  <stop offset="0.75" stop-color="#fafdfe" stop-opacity="0.95"/>
+                  <stop offset="0.79" stop-color="#fafdfe" stop-opacity="0.88"/>
+                  <stop offset="0.83" stop-color="#fafdfe" stop-opacity="0.79"/>
+                  <stop offset="0.87" stop-color="#fafdfe" stop-opacity="0.67"/>
+                  <stop offset="0.9" stop-color="#fafdfe" stop-opacity="0.52"/>
+                  <stop offset="0.94" stop-color="#fafdfe" stop-opacity="0.35"/>
+                  <stop offset="0.98" stop-color="#fafdfe" stop-opacity="0.15"/>
+                  <stop offset="1" stop-color="#fafdfe" stop-opacity="0"/>
+                </linearGradient>
+              </defs>
+              <title>slopes_small</title>
+              <g id="smiles">
+                <path class="white-slopes" d="M2000,593.74H0V194.11c74.35,2,102.54,1.13,126.71,1.13,64.12,0,71.29.77,183.84.55,147.31-.28,84.64-128.5,149.24-127.17,70.64,1.46,6.52,122.57,204.54,122.87,88.08.13,443.74,7.7,571,2.62C1552.4,181.47,1471.1,13.56,1544.27,13.56c81.3,0,8.21,166.69,203.25,180.56,41.77,3,57.55,4.09,102.36,0C1988.57,181.46,1977.1,109.86,2000,89.46Z">
+                  <title>WHITE_SLOPES</title>
+                </path>
+                <g>
+                  <title>first</title>
+                  <path class="smiles-2" d="M 241.28 208.31 C 255.227 208.67 269.177 208.48 283.13 207.74 C 286.4 207.57 286.42 202.45 283.13 202.62 C 269.183 203.373 255.233 203.563 241.28 203.19 C 238 203.11 238 208.19 241.28 208.31 Z"/>
+                </g>
+                <g>
+                  <title>second</title>
+                  <path class="smiles-2" d="M 456.25 78.56 C 439.5 76.25 436.62 95 433.68 107 C 432.9 110.2 437.83 111.56 438.62 108.36 C 440.68 99.98 442.2 81.74 454.89 83.49 C 458.11 83.93 459.5 79 456.25 78.55 Z"/>
+                  <path class="cls-2" d="M 432 124.1 C 435.29 124.1 435.3 118.98 432 118.98 C 428.7 118.98 428.7 124.1 432 124.1 Z"/>
+                </g>
+                <g>
+                  <title>third</title>
+                  <path class="smiles-2" d="M 656.49 210.56 C 659.79 210.56 659.79 205.44 656.49 205.44 C 653.19 205.44 653.19 210.56 656.49 210.56 Z"/>
+                  <path class="smiles-2" d="M 668.48 210.81 L 759.39 209.81 C 762.68 209.81 762.69 204.66 759.39 204.69 L 668.48 205.69 C 665.19 205.69 665.18 210.84 668.48 210.81 Z"/>
+                  <path class="cls-2" d="M 773.9 209.07 C 777.2 209.07 777.2 203.95 773.9 203.95 C 770.6 203.95 770.6 209.07 773.9 209.07 Z"/>
+                </g>
+                <g>
+                  <title>fourth</title>
+                  <path class="smiles-2" d="M 1265.25 207.89 C 1289.768 209.527 1314.381 206.753 1337.92 199.7 C 1341.07 198.75 1339.73 193.81 1336.56 194.76 C 1313.462 201.68 1289.307 204.39 1265.25 202.76 C 1261.97 202.54 1261.98 207.65 1265.25 207.87 Z"/>
+                  <path class="smiles-2" d="M 1351.58 195.5 C 1354.87 195.5 1354.87 190.38 1351.58 190.38 C 1348.29 190.38 1348.28 195.5 1351.58 195.5 Z"/>
+                </g>
+                <g>
+                  <title>last</title>
+                  <path class="smiles-2" d="M 1552.45 24.56 C 1555.74 24.56 1555.75 19.44 1552.45 19.44 C 1549.15 19.44 1549.15 24.56 1552.45 24.56 Z"/>
+                  <path class="smiles-2" d="M 1560.05 28.63 C 1564.72 30.45 1567.31 34.88 1569.64 39.04 C 1572.23 43.65 1574.64 48.25 1575.64 53.48 C 1576.27 56.71 1581.2 55.34 1580.57 52.12 C 1579.29 45.6 1576.04 39.56 1572.57 33.93 C 1569.77 29.35 1566.46 25.67 1561.38 23.7 C 1558.31 22.5 1556.98 27.45 1560.02 28.63 Z"/>
+                </g>
+              </g>
+            </svg>
