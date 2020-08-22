@@ -61,7 +61,7 @@ p{
 }
 
 figcaption{
-    font-size: 12px;
+    font-size: 22px;
     color: #1C4B4F;
     letter-spacing: 1.25px;
 }
@@ -97,14 +97,12 @@ figcaption{
 .software-logo-fig{
     height:60px;
     text-align: center;
-}
-
-#logo-grid{
-    display: flex;
+    padding-bottom: 10px;
 }
 
 .software-logo{
-    height:70%;
+    width:200px;
+    padding-bottom: 10px;
 }
 
 .at-symbol{
